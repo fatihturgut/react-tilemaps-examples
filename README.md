@@ -8,4 +8,5 @@ This is a collection of demos and examples on how to use and implement **tilemap
 
 ## Demos
 #### Square Tiles
-1. [Tilemaps with layers](https://github.com/fatihturgut/react-tilemaps-examples/tree/master/square/tilemaps-with-layers)
+1. [Non-scrolling tilemaps](https://github.com/fatihturgut/react-tilemaps-examples/tree/master/square/non-scrolling-tilemaps)
+2. [Tilemaps with layers](https://github.com/fatihturgut/react-tilemaps-examples/tree/master/square/tilemaps-with-layers)
