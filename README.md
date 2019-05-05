@@ -1,5 +1,5 @@
 # Tile maps examples with React
-This is a collection of demos and examples on how to use and implement tilemaps in React.
+This is a collection of demos and examples on how to use and implement **tilemaps** in **React**.
 
 ## Setup
 
