@@ -1,0 +1,47 @@
+body {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.header {
+  height: 50px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #31ffd5;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.subheader {
+  height: 20px;
+  padding: 10px;
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subheader2 {
+  height: 20px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gameContainer {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+
+.flex {
+  padding: 10;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
