@@ -1,4 +1,4 @@
-# Scrolling tilemaps
+# Offcanvas Drawing (scrolling maps)
 
 ![offcanvas-drawing](https://i.ibb.co/Zcm1Fmj/offcanvas-drawing.png)
 
