@@ -17,3 +17,7 @@ This is a collection of demos and examples on how to use and implement **tilemap
 
 #### Performance improvements
 1. [Offcanvas drawing](https://github.com/fatihturgut/react-tilemaps-examples/tree/master/performance/offcanvas-drawing)
+
+## References
+1. [Mozilla Tilemaps Examples](http://mozdevs.github.io/gamedev-js-tiles/)
+2. [Mozilla Articles about Tiles and tilemaps overview](https://developer.mozilla.org/en-US/docs/Games/Techniques/Tilemaps)
